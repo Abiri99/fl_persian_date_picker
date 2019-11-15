@@ -1,8 +1,8 @@
 name: fl_persian_date_picker
-description: A new Flutter package project.
+description: A beautiful persian date picker for Flutter.
 version: 0.0.1
-author:
-homepage:
+author: Alireza Abiri<abiriali78@gmail.com>
+homepage: https://github.com/Abiri99/fl_persian_date_picker.git
 
 environment:
   sdk: ">=2.1.0 <3.0.0"

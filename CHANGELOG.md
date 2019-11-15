@@ -1,3 +1,3 @@
-## [0.0.1] - TODO: Add release date.
+## [0.0.1] - 2019-11-15.
 
-* TODO: Describe initial release.
+* It can be used just in Material Applications for now.
