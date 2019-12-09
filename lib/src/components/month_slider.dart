@@ -1,11 +1,12 @@
+import 'package:fl_persian_date_picker/src/components/slider.dart';
 import 'package:flutter/material.dart';
-import './slider.dart';
+import '../components/slider.dart';
 
 class MonthSlider extends StatelessWidget {
 
-  PageController _monthController;
-  int _selectedMonth;
-  Function onMonthChange;
+  final PageController _monthController;
+  final int _selectedMonth;
+  final Function onMonthChange;
 
   MonthSlider(this._monthController, this._selectedMonth, this.onMonthChange);
 

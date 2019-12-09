@@ -23,7 +23,8 @@ class PdpDialog extends StatelessWidget {
         backgroundColor: Colors.blue,
         contentPadding: const EdgeInsets.all(0),
       );
-    } return null;
+    }
+    return null;
   }
 
   @override
