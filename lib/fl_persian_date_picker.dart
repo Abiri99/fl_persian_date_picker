@@ -2,8 +2,8 @@ library fl_persian_date_picker;
 
 import 'package:fl_persian_date_picker/src/components/pdp_dialog.dart';
 import 'package:flutter/material.dart';
-class PersianDatePicker {
 
+class PersianDatePicker {
   // void setDate(var dateList)
 
   static open({
