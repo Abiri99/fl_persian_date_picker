@@ -1,6 +1,6 @@
 name: fl_persian_date_picker
 description: A beautiful date picker for Flutter which allows you to select persian dates easily by sliding months and years.
-version: 0.0.1
+version: 0.0.2
 author: Alireza Abiri<abiriali78@gmail.com>
 homepage: https://github.com/Abiri99/fl_persian_date_picker.git
 
